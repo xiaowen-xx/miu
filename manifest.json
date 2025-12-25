@@ -1,0 +1,11 @@
+{
+    "name": "Miu Phone",
+    "short_name": "Miu",
+    "description": "Miu Phone App",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#E8E8E8",
+    "theme_color": "#FFF2F4",
+    "icons": []
+}
